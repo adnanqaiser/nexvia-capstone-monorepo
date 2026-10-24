@@ -3,18 +3,6 @@
 
 This repository contains the official capstone project implementations for the Full-Stack Development Internship at Nexvia Technologies.
 
----
-
-## 📸 Visual Previews & Execution Screenshots
-
-### FS-01: Multi-Vendor E-Commerce Marketplace
-![FS-01 Marketplace Screenshot](YOUR_IMAGE_URL_OR_RELATIVE_PATH_HERE)
-
-### FS-02: Real-Time Collaborative Workspace
-![FS-02 Collaborative Workspace Screenshot](YOUR_IMAGE_URL_OR_RELATIVE_PATH_HERE)
-
----
-
 ## 🚀 Projects Overview & Full Details
 
 ### 1. FS-01: Multi-Vendor E-Commerce Marketplace
