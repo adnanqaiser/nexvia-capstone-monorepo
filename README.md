@@ -6,14 +6,24 @@ This repository contains the official capstone project implementations for the F
 
 ---
 
-## 🚀 Projects Overview
+## 📸 Visual Previews & Execution Screenshots
+
+### FS-01: Multi-Vendor E-Commerce Marketplace
+![FS-01 Marketplace Screenshot](YOUR_IMAGE_URL_OR_RELATIVE_PATH_HERE)
+
+### FS-02: Real-Time Collaborative Workspace
+![FS-02 Collaborative Workspace Screenshot](YOUR_IMAGE_URL_OR_RELATIVE_PATH_HERE)
+
+---
+
+## 🚀 Projects Overview & Full Details
 
 ### 1. FS-01: Multi-Vendor E-Commerce Marketplace
 - **Architecture:** Express, Node.js, Prisma ORM, and React (Vite).
 - **Key Features:**
-  - Dynamic multi-tenant vendor product catalog.
+  - Dynamic multi-tenant vendor product catalog and management.
   - Secure checkout processing with automated 10% platform base commission deduction.
-  - S3 direct upload capabilities and robust error handling.
+  - AWS S3 direct file/image upload capabilities and robust error handling.
   - Database cluster connection failover simulation fallbacks ensuring zero downtime.
 
 ### 2. FS-02: Real-Time Collaborative Workspace
